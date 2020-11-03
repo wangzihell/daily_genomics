@@ -1,0 +1,45 @@
+Glu-A1, high molecular weight glutenin subunit; 
+Glu-A3, low molecular weight glutenin subunit; 
+Glu-B1, high molecular weight glutenin subunit; 
+Pm3, powdery mildew resistance; 
+TaASN3, asparagine synthetase 3; 
+NR1, nitrate reductase 1; 
+Fd-GOGAT, ferredoxin-dependent glutamate synthase; 
+NADH-GOGAT, NADH-glutamine oxoglutarate aminotransferase; 
+GDH, glutamate dehydrogenase; 
+GS, glutamine synthetase; 
+Gsr1, Glutamine synthetase 1; 
+NRT-2, nitrate transporter; 
+ASN1/2, glutamine-dependent asparagine synthetase1/2; 
+Rht1/12, plant height; 
+Vrn-1/2, vernalization; 
+Ppd, photoperiod response; 
+Psy, phytoene synthase; 
+Pds, phytoene desaturase; 
+Lyc, lycopene cyclase; 
+Ppo, polyphenol oxidase; 
+Lox3, lipoxygenase; 
+Wx, waxy.
+
+QTL name, abbreviation (in bold): 
+BM, biomass; 
+HI, harvester index; 
+FBH, Fusarium head blight resistance; 
+HD, heading date; 
+YR, yellow rust; 
+SR, stem rust; 
+SL, spike length; 
+SLNS, spikelets per spike; 
+TRL, total root length; 
+KNS, kernel number per spike; 
+TW, test weight; 
+KNM, kernel number of main spike; 
+TNR, total root number; 
+ARL, average root length; 
+PRL, primary root length; 
+GY, grain yield; 
+PA, phytic acid; 
+PH, plant height; 
+TKW, thousand kernel weight; days from booting to anthesis (DSB); 
+TG, tough glume;
+RGA, root growth angle.
